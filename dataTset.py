@@ -1,1 +1,1 @@
-duangkamon
+duangkamon = 0
